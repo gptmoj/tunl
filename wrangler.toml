@@ -1,4 +1,5 @@
 name = "tunl"
+account_id = "678da4e64a71ab5fd1a4a1a44169e1ff"
 main = "build/worker/shim.mjs"
 compatibility_date = "2025-06-01"
 minify = true
